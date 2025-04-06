@@ -1,4 +1,4 @@
-# <h1 align="center">👋 ¡Hola! Soy Jords Yovera Palacios </h1>
+<h1 align="center">👋 ¡Hola! Soy Jords Yovera Palacios </h1>
 
 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en la Universidad Privada del Norte (UPN), actualmente cursando el **8.º ciclo**.  
 
