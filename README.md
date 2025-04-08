@@ -7,7 +7,7 @@
 - Apasionado por las **redes y telecomunicaciones**, donde busco especializarme desarrollando soluciones que mejoren la **conectividad y seguridad**.  
 - También tengo habilidades en **programación**, especialmente con **Python**, y me interesa seguir aprendiendo nuevas tecnologías.  
 - Busco una **oportunidad laboral o de prácticas** para aplicar mis conocimientos y seguir creciendo como profesional en el mundo TI.
-- Sitio web personal [link](https://jords19.github.io/cv_jords/)
+- Sitio web personal [link](https://jords19.github.io/cv_yovera/)
   
 ![line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ##  <img src="https://github.com/user-attachments/assets/e733d309-965c-476e-9306-0f7d194ff30b" width="25" height="25" alt="Animation"> Skills
